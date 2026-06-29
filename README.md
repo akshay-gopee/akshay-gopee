@@ -1,5 +1,21 @@
-## Hi there 👋
+## Hi, I'm Akshay 👋
 
+Mathematics undergraduate at Imperial College London.
+
+Interested in:
+ - Quantitative Research 
+ - Statistical Modelling 
+ - Probability 
+ - Optimisation 
+ - Machine Learning 
+ - Risk Modelling
+
+
+Currently working on:
+ - Insurance Pricing Optimisation
+ - Monte Carlo Risk Simulation
+
+Always learning more about mathematical modelling and quantitative finance.
 <!--
 **akshay-gopee/akshay-gopee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
